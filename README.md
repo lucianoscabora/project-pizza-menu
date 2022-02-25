@@ -1,2 +1,2 @@
-# estudo-pizzaria-cardapio
-Página de uma pizzaria para fazer pedidos
+# Página para pedidos de pizza em Javascript
+Página de pizza
